@@ -7,6 +7,6 @@
   <br><br>   
   <b>👩🏾‍💻 I'm currently expanding my knowledge on coding.</b>   
   <br><br>    
-  🚀 Have a look at some of the projects I have worked on, pinned on my profile.   
+  🚀 Have a look at some of the projects I have worked on below.   
   <br><br>    
 </p>
