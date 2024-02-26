@@ -7,6 +7,8 @@
   <br><br>   
   <b>👩🏾‍💻 I'm currently expanding my knowledge on coding.</b>   
   <br><br>    
-  🚀 Have a look at some of the projects I have worked on pinned below.   
-  <br><br>    
+  🚀 Have a look at some of the projects I have worked on pinned below.  
+  <br><br> 
+  <b> [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,mongodb,mysql,nodejs,vue,vscode)](https://skillicons.dev).</b>
+  <br><br>
 </p>
